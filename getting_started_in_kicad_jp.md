@@ -1,6 +1,6 @@
 # はじめに
 
-この文章は[KiCAD公式ドキュメントVer8.0](https://docs.KiCAD.org/8.0/en/getting_started_in_KiCAD/getting_started_in_KiCAD.html)を翻訳し，実習用に編集したものです．<br>
+この文章は[KiCAD公式ドキュメントVer8.0](https://docs.kicad.org/8.0/en/getting_started_in_kicad/getting_started_in_kicad.html)を翻訳し，実習用に編集したものです．<br>
 一部簡略されている部分があるため，深く知識を得たい場合は，[公式ドキュメント](https://docs.KiCAD.org/)に目を通すことをおすすめします．<br>
 
 公式ドキュメントは日本語も存在しますが，<font color="red">**翻訳が不完全**</font>です．<br>
@@ -77,7 +77,7 @@ KiCAD を開くと，`プロジェクトマネージャー`が表示されます
 
 設計図はプロジェクトごとに分けて管理しておきたいため，
 1. ファイル -> 新規プロジェクト をクリック
-2. `docment`フォルダに新しく`KiCAD-project`フォルダを作成
+2. `document`フォルダに新しく`KiCAD-project`フォルダを作成
 3. `KiCAD-project`フォルダ内に`getting-started`と名付けたプロジェクトを作成
 
 以上を行って，管理しやすくしましょう．<br>
