@@ -379,13 +379,13 @@ KiCAD では`シンボル`と`フットプリント`をそれぞれ別のライ�
 ![fig.302](/pictures/302.png)
 
 表面実装部品側(実物)<br>
-![fig.401](/pictures/401.png)
+![fig.401](/pictures/401.jpg)
 
 スルーホール部品側(実物)<br>
-![fig.402](/pictures/402.png)
+![fig.402](/pictures/402.jpg)
 
 スルーホール部品側(実物，ケース付き)<br>
-![fig.403](/pictures/403.png)
+![fig.403](/pictures/403.jpg)
 
 残り時間すべてを使い，今までに得た知識を総動員して，これらを完成させましょう!<br>
 
