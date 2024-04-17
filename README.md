@@ -1,6 +1,11 @@
 この文章は[KiCAD 公式ドキュメント Ver8.0](https://docs.kicad.org/8.0/en/getting_started_in_kicad/getting_started_in_kicad.html)を翻訳し，実習用に編集したものです．<br>
 一部簡略されている部分があるため，深く知識を得たい場合は，[公式ドキュメント](https://docs.KiCAD.org/)に目を通すことをおすすめします．<br>
 
+getting_started_in_kicad_jp.md -> 基本的な使い方を説明しています．<br>
+custom_kicad_jp.md -> 応用的な使い方を説明しています．<br>
+
+
+
 公式ドキュメントは日本語も存在しますが，<font color="red">**翻訳が不完全**</font>です．<br>
 本文書は KiCAD(Ver8.0)で使用されている UI を元に`日本語`で説明を行いますが，今後文章が変化することが予想されます．<br>
 Google 翻訳や DeepL 翻訳などを使用して読み進めることをおすすめしますが，画像内の言語は翻訳できないため，普段から<font color="red">**英語**</font>で使用することを強く推奨します．<br>
